@@ -13,3 +13,12 @@ for (let i = 1; i <= 5; i++) {
 for (let i = 5; i >= 1; i--) {
     console.log(i);
 }
+
+// lOOP DENTRO DE UM LOOP
+for(let i = 1; i <=5; i++) {
+    console.log(i);
+
+    for(let j = 1; j <= 3; j++) {
+        console.log('Gabrielle da Silva Rodrigues')
+    }
+}
