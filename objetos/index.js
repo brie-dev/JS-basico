@@ -1,3 +1,5 @@
+// AO INVES DE TER UMA VARIAVEL PARA NOME, IDADE, ETC. PQ NAO COLOCAMOS TUDO EM UMA VARIAVEL SÓ? ATRAVES DE UM OBJETO
+
 let pessoa = {
     nome: 'Gabrielle',
     idade: 18
