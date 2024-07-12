@@ -5,6 +5,12 @@ let pessoa = {
     idade: 18
 };
 
+// ACESSAR PROPRIEDADES
+console.log(pessoa.nome);
+
+// ADICIONAR PROPRIEDADES
+pessoa.profissao = 'Estágiaria do cargo de Desenvolvedor Front-end'
+
 // FORMAS DE MUDAR ALGUMA INFORMAÇÃO DO OBJETO - DOT NOTATION 
 pessoa.nome = 'Janaina';
 
