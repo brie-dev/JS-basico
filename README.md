@@ -1,2 +1,3 @@
 # JS-basico
- Aulas e exercícios/trabalhos de Javascript
+JavaScript para iniciantes.
+Aulas e exercícios/trabalhos de Javascript
